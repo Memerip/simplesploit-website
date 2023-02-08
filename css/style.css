@@ -50,7 +50,7 @@ a {
 }
 
 .installation:hover {
-  background-color: #1a2b34; /* Same as page background color */
+  background-color: #4C4E52; /* Same as page background color */
   color: #d1dce6;
   border: 2px solid #6699cc;
 }
@@ -62,7 +62,7 @@ a {
 }
 
 .development:hover {
-  background-color: #1a2b34; /* Same as page background color */
+  background-color: #4C4E52; /* Same as page background color */
   color: #d1dce6;
   border: 2px solid #ec5f67;
 }
@@ -74,7 +74,7 @@ a {
 }
 
 .about:hover {
-  background-color: #1a2b34; /* Same as page background color */
+  background-color:#4C4E52; /* Same as page background color */
   color: #d1dce6;
   border: 2px solid #99c794;
 }
@@ -86,7 +86,7 @@ a {
    width: 100%;
    color: #d1dce6;
    text-align: center;
-   background-color: #1a2b34; /* Same as page background color */
+   background-color: #4C4E52; /* Same as page background color */
    opacity: 0.9;
 }
 
