@@ -68,15 +68,15 @@ a {
 }
 
 .about {
-  background-color: #99c794;
-  color: #d1dce6;
-  border: 2px solid #99c794;
+  background-color: #ffffff;
+  color: #ffffff;
+  border: 2px solid #ffffff;
 }
 
 .about:hover {
   background-color:#4C4E52; /* Same as page background color */
-  color: #d1dce6;
-  border: 2px solid #99c794;
+  color: #ffffff;
+  border: 2px solid #ffffff;
 }
 
 .footer {
