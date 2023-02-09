@@ -1,11 +1,3 @@
------
-
-<p align="center">
-<img src="https://i.postimg.cc/htzBfr02/92902811.jpg", width="300", height="300">
-</p>
-
------
-
 ### <p align="center">SimpleSploit</p>
 
 <br><br>
@@ -15,7 +7,7 @@ Open source, free, keyless
 <br><br>
 SimpleSploit website!
 <br>
-<br><br><br>
+<br>
 </strong>
 </p>
 <br>
@@ -24,7 +16,7 @@ SimpleSploit website!
 
 ### <p align="center">⭐ SimpleSploit Source ⭐</p>
 
-<a href="https://github.com/Memerip/simplesploit-src">Github Repo Link</a>
+<p align="center"><a href="https://github.com/Memerip/simplesploit-src">Github Repo Link</a></p>
 
 -----
 
