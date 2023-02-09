@@ -1,12 +1,11 @@
 ### <p align="center">SimpleSploit</p>
 
-<br><br>
+<br>
 <p align="center">
 <strong>
 Open source, free, keyless
 <br><br>
 SimpleSploit website!
-<br>
 <br>
 </strong>
 </p>
